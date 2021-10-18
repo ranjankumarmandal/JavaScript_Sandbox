@@ -1,5 +1,6 @@
 // window is the global object in client side JavaScript
 // window is the window / client side environment in browser not the whole browser
+// for DOM Manipulation - document is the property of window object
 
 // window methods / objects / properties
 
