@@ -13,7 +13,7 @@ const square = function(x) {
 
 console.log(square(12));
 
-// Immediately Invocable Function Expression - (IIFEs)
+// Immediately Invoked Function Expression - (IIFEs)
 (function(name) {
     console.log(`hello ${name}`);
 })('Ranjan')
